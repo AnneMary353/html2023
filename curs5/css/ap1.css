@@ -1,0 +1,10 @@
+div{
+    height: 300px;
+    width: 300px;
+    border: solid red 1px; 
+    outline-style: auto;
+    outline-color: red;
+    outline-width: 15px; 
+}
+ 
+ div 
